@@ -163,7 +163,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="bg-gray-50 rounded-3xl p-6 shadow-sm min-h-[400px] flex flex-col">
+      <div className="bg-gray-50 rounded-3xl p-6 shadow-sm h-[70vh] overflow-y-auto flex flex-col">
         {mode === "qna" && (
           <div className="mb-6">
             {!userQuestionQna ? (
@@ -208,7 +208,7 @@ export default function Home() {
         {mode === "browse" ? (
           <CreditCardBrowser />
         ) : (
-          <div className="flex-grow overflow-y-auto pr-2">
+          <div className="flex-grow overflow-y-auto h-] pr-2">
             {mode === "chat" ? (
               messages.map((msg, i) =>
                 msg.role === "tool" ? (
