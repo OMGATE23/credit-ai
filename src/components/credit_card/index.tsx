@@ -11,8 +11,15 @@ interface CreditCard {
 }
 
 export default function CreditCardCard({ card }: { card: CreditCard }) {
+  const handleClick = () => {
+    window.open(card.url, "_blank");
+  };
+
   return (
-    <div className=" rounded-xl p-3 shadow-sm bg-white w-64">
+    <div
+      onClick={handleClick}
+      className="rounded-xl p-3 shadow-sm bg-white w-64 cursor-pointer hover:shadow-md transition-shadow duration-200"
+    >
       <h3 className="font-semibold text-lg">{card.card_name}</h3>
       <p className="text-sm text-gray-600 mb-1">{card.bank}</p>
       <p className="text-xs mb-1">APR: {card.annual_percentage_rate}</p>

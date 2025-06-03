@@ -63,7 +63,7 @@ export async function POST(request: Request) {
       },
     ];
 
-    console.log(messages);
+    console.log(chatContext);
     const completion = await openai.chat.completions.create({
       model: "gemini-2.0-flash",
       messages: chatContext,
