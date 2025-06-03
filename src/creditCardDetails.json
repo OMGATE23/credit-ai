@@ -1,0 +1,119 @@
+[
+  {
+    "bank": "HDFC Bank",
+    "card_name": "HDFC Regalia",
+    "annual_percentage_rate": "40.8%",
+    "joining_fee": "₹2,500",
+    "annual_fee": "₹2,500",
+    "benefits": [
+      "Complimentary airport lounge access",
+      "Reward points on spends",
+      "Dining benefits"
+    ]
+  },
+  {
+    "bank": "SBI",
+    "card_name": "SBI SimplySAVE",
+    "annual_percentage_rate": "36.0%",
+    "joining_fee": "₹499",
+    "annual_fee": "₹499",
+    "benefits": [
+      "10x reward points on dining, movies, groceries, and departmental stores"
+    ]
+  },
+  {
+    "bank": "ICICI Bank",
+    "card_name": "ICICI Coral",
+    "annual_percentage_rate": "40.8%",
+    "joining_fee": "₹500",
+    "annual_fee": "₹500",
+    "benefits": [
+      "2x rewards on online spends",
+      "Complimentary movie tickets",
+      "Dining discounts"
+    ]
+  },
+  {
+    "bank": "Axis Bank",
+    "card_name": "Axis Bank Magnus",
+    "annual_percentage_rate": "41.75%",
+    "joining_fee": "₹10,000",
+    "annual_fee": "₹10,000",
+    "benefits": [
+      "Travel benefits",
+      "Complimentary airport lounge access",
+      "Luxury experiences"
+    ]
+  },
+  {
+    "bank": "Citibank",
+    "card_name": "Citi PremierMiles",
+    "annual_percentage_rate": "39.0%",
+    "joining_fee": "₹3,000",
+    "annual_fee": "₹3,000",
+    "benefits": [
+      "Air mile conversion options",
+      "Complimentary air travel",
+      "Exclusive discounts on travel bookings"
+    ]
+  },
+  {
+    "bank": "Kotak Mahindra Bank",
+    "card_name": "Kotak Royale Signature",
+    "annual_percentage_rate": "37.2%",
+    "joining_fee": "₹999",
+    "annual_fee": "₹999",
+    "benefits": [
+      "Reward points on all spends",
+      "Dining benefits",
+      "Fuel surcharge waiver"
+    ]
+  },
+  {
+    "bank": "American Express",
+    "card_name": "Amex Platinum Travel",
+    "annual_percentage_rate": "42.0%",
+    "joining_fee": "₹3,500",
+    "annual_fee": "₹5,000",
+    "benefits": [
+      "Complimentary travel vouchers",
+      "Airport lounge access",
+      "Exclusive hotel benefits"
+    ]
+  },
+  {
+    "bank": "Standard Chartered",
+    "card_name": "SC Manhattan",
+    "annual_percentage_rate": "39.9%",
+    "joining_fee": "₹999",
+    "annual_fee": "₹999",
+    "benefits": [
+      "5% cashback on supermarkets",
+      "Reward points on all other spends",
+      "Dining discounts"
+    ]
+  },
+  {
+    "bank": "HSBC",
+    "card_name": "HSBC Visa Platinum",
+    "annual_percentage_rate": "39.6%",
+    "joining_fee": "Nil",
+    "annual_fee": "Nil",
+    "benefits": [
+      "Introductory offer with no joining or annual fee",
+      "Rewards on all purchases",
+      "Dining benefits"
+    ]
+  },
+  {
+    "bank": "RBL Bank",
+    "card_name": "RBL Bank ShopRite",
+    "annual_percentage_rate": "42.0%",
+    "joining_fee": "₹500",
+    "annual_fee": "₹500",
+    "benefits": [
+      "Reward points on grocery and departmental store spends",
+      "Fuel surcharge waiver"
+    ]
+  }
+]
